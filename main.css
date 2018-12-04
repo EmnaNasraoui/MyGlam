@@ -1,0 +1,181 @@
+.back{
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+    background-image: url("slider_image_home@2x.png");
+    background-position: center center;
+    background-size: cover;
+    padding: 0px; 
+    height: 759px;
+}
+.logo{
+    
+    margin-top: 19px;
+    width: auto;
+   
+}
+.titre{
+    margin-top: -15px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    
+}
+.text{
+    color:#ffffff;
+    padding-top: 1px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+
+  
+ 
+
+.explore{
+  
+    font-size: 20px;
+}
+.titreBar2{
+    text-align: center;
+     
+   
+  }
+.titreBar{
+  text-align: center;
+    width: 125px;
+    height: 3px;
+ 
+}
+.marginImageSlider{
+    margin-left: 153px;
+    
+}
+.ImageSlider{
+    height: 206px;
+    width: 220px;
+}
+.SliderText{
+    margin-left: -6px;
+    text-align: center;
+}
+.SliderTitre{
+    margin-left: 136px;
+}
+.buttonReserve{
+    text-align: center;
+}
+.titreExpolre{
+    margin-top: 59px;
+    color: #d12731;
+}
+.bg{
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+    background-image: url("recomended_background_image@2x.png");
+    background-position:  center;
+    background-size: cover;
+    height:500px;
+
+}
+.titre2{
+    color: #ffffff;
+    text-align: center;
+}
+
+.buttonExploreAll{
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #ffffff;
+    margin-top: 18px;
+    margin-bottom: 30px;
+    padding: 12px 75px;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+
+
+.titre3{
+    text-align: center;
+    color: #d12731;
+}
+.carousel1{
+    margin-top: -73px;
+    
+}
+.icone{
+    text-align: center;
+}
+.iconePara{
+    font-size: 14px;
+    color: darkgray;
+}
+.icone1{
+    height: 70px;
+    width: 73px;
+}
+.GrayBg{
+    background-color:rgb(224, 222, 218);
+}
+.phone{
+    width: 400px;
+    margin-left: -7px;
+    margin-bottom: 29px;
+    margin-top: -41px;
+}
+.phonePara{
+    text-align: center;
+    color: darkgray;
+    font-size: 14px;
+}
+.PinkBg{
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+    background-image: url("news_letter_background_image_home@1x.png");
+    background-position:  center;
+    background-size: cover;
+    height:500px;
+
+}
+.paddingPink{
+        padding: 25px;
+}
+.PoliceColor{
+    color:#ffffff;
+}
+.navbarMargin{
+    margin-left: 32px;
+}
+div{
+    width: 100%;
+}
+.MArgintop{
+    margin-top: -17px;
+}
+.Google{
+    margin-left: -83px;
+}
+
+@media(min-width: 768px){ 
+ 
+    /* show 3 items */
+    .carousel-inner .active,
+    .carousel-inner .active + .carousel-item,
+    .carousel-inner .active + .carousel-item + .carousel-item {
+        display: block;}
+   
+}
+.cla{
+    padding-left:134px;
+}
